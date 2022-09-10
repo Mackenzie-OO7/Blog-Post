@@ -12,7 +12,7 @@ body,html{
  }
 
 .contactBg1 {
-    background: url('/images/car.image.png');
+    background: url('/img/car.image.png');
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
@@ -20,7 +20,7 @@ body,html{
 
 
 .contactBg2 {
-    background: url('/images/car.connect.png');
+    background: url('/img/car.connect.png');
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
